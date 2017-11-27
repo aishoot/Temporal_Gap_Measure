@@ -161,7 +161,6 @@ def noise3(highFreq, bandwidth, soundLength=800, fs=44100):
 
 
 def playAudio(highFreq, bandWidth, gapLength, samplerate=44100):
-    # 生成第一段音频数据并保存
     noneGapData, gapData, synAudioData = syntheticAudio(highFreq, bandWidth, gapLength)
     synAudioAdd = os.path.join(fileAddress, "F%sB%sG%.2fSyn.wav"%(highFreq, bandWidth, CONST.gapLength))
     #saveAudio(noneGapData, os.path.join(fileAddress, "F%sB%sG%.2fNoneGap.wav"%(highFreq, bandWidth, CONST.gapLength)))
