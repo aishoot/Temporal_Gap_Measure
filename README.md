@@ -19,5 +19,5 @@ The time resolution of different conditions (different bandwidths and frequency 
 ##### Sounddevice: https://pypi.python.org/pypi/sounddevice
 ##### or Pyaudio: https://pypi.python.org/pypi/PyAudio
 
-### 1.6 Software startup interface
+### 1.6 Software start interface
 ![UI](https://github.com/isuccess188/TemporalGapDetection/blob/master/UI.png)
