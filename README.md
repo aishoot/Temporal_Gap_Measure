@@ -11,7 +11,7 @@ Add silent segments to band-limited noise to measure the minimum length of silen
 ### 1.3 Experimental purpose
 The time resolution of different conditions (different bandwidths and frequency ranges of the noise) is measured by the method of narrowband noise mute detection
 
-### 1.4 The main reference
+### 1.4 Reference
 "The detection of temporal gaps as a function of frequency region and absolute noise bandwidth" (Eddins et al., 1992)
 
 ### 1.5 Experimental environment
