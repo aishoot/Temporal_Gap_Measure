@@ -2,6 +2,10 @@
 Generate and play band-limited signal
 ========================================"""
 
+# Copyright (c) Nov. 2017
+# Chao Peng, Yufan Du, Peking University, Beijing, China
+# All rights reserved.
+
 import os
 import wave
 import random
