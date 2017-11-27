@@ -1,4 +1,4 @@
-# TemporalGapDetection
+# Temporal Gap Detection Experiment
 Time resolution measurement experiments of noise with different cut-off frequency and bandwidth.
 
 
@@ -20,4 +20,4 @@ The time resolution of different conditions (different bandwidths and frequency 
 ##### or Pyaudio: https://pypi.python.org/pypi/PyAudio
 
 ### 1.6 Software startup interface
- ![image](TemporalGapDetection/UI.png)
+![UI](https://github.com/isuccess188/TemporalGapDetection/UI.png)
