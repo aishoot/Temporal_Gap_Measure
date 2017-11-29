@@ -22,7 +22,7 @@ def everyGapPlot(data):
 
 # Draw plots for all gap experiments
 def totalGapPlot(data):
-    plt.xlabel("Bandwidth (Hz)", size=14)
+    plt.xlabel("Bandwidth (Hz)", size=14) 
     plt.ylabel('Gap (ms)', size=14)
     plt.plot(data[0, 0:4], color='r', linestyle='--', marker='o', label='600 Hz')
     plt.plot(data[1, 0:6], color='y', linestyle='--', marker='o', label='2200 Hz')
