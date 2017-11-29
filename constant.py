@@ -16,7 +16,7 @@ counter = 1
 everyGap = np.zeros(10)
 flag = np.zeros((3,100))
 
-fileAddress = "" 
+fileAddress = ""
 totalCounter = 0
 totalGap = np.zeros((3,6))
 FREANDBAND = [(600, 50), (600, 100), (600, 200), (600, 400),
