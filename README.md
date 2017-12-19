@@ -15,9 +15,9 @@ The time resolution of different conditions (different bandwidths and frequency 
 "The detection of temporal gaps as a function of frequency region and absolute noise bandwidth" (Eddins et al., 1992)
 
 ### 1.5 Experimental environment
-##### Anaconda3 (Python 3.5): https://www.anaconda.com/
-##### Sounddevice: https://pypi.python.org/pypi/sounddevice
-##### or Pyaudio: https://pypi.python.org/pypi/PyAudio
+* Anaconda3 (Python 3.5): https://www.anaconda.com/
+* Sounddevice: https://pypi.python.org/pypi/sounddevice
+* or Pyaudio: https://pypi.python.org/pypi/PyAudio
 
 ### 1.6 Software start interface
 ![UI](https://github.com/isuccess188/TemporalGapDetection/blob/master/UI.png)
