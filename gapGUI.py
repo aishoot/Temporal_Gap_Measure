@@ -3,7 +3,6 @@ Generate the GUI of the experiment
 ========================================"""
 
 # Copyright (c) Nov. 2017
-# Chao Peng, Yufan Du, Peking University, Beijing, China
 # All rights reserved.
 
 import os
