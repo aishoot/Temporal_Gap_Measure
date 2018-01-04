@@ -3,7 +3,6 @@ Plot the audio signal
 ========================="""
 
 # Copyright (c) Nov. 2017
-# Legendary Ma, Peking University, Beijing, China
 # All rights reserved.
 
 import os
