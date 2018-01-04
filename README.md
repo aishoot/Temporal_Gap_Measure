@@ -20,4 +20,4 @@ The time resolution of different conditions (different bandwidths and frequency 
 * or Pyaudio: https://pypi.python.org/pypi/PyAudio
 
 ### 1.6 Software start interface
-![UI](https://github.com/isuccess188/TemporalGapDetection/blob/master/UI.png)
+![UI](https://github.com/pchao6/TemporalGapDetection/blob/master/UI.png)
