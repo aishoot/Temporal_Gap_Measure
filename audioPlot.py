@@ -3,7 +3,7 @@ Plot the audio signal
 ========================="""
 
 # Copyright (c) Nov. 2017
-# Chao Peng, Yufan Du, Peking University, Beijing, China
+# Legendary Ma, Peking University, Beijing, China
 # All rights reserved.
 
 import os
