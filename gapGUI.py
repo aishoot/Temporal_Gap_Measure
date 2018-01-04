@@ -167,6 +167,6 @@ class GapDectionGUI:
         btnNext = tk.Button(mainWindow, text="Next", width=6, height=2, font=("Times New Roman", 12), command=funNext)
         btnNext.place(relx=0.60, rely=0.68)
 
-        textName = "* Yufan Du, Chao Peng\nNovember 2017\nAuditory Information Processing"
+        textName = "* Legendary Ma\nNovember 2017\nAuditory Information Processing"
         inscribeName = tk.Label(mainWindow, text= textName, font=("Times New Roman", 10))
         inscribeName.place(relx=0.64, rely=0.86)
