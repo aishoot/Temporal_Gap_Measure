@@ -7,7 +7,7 @@ Time resolution measurement experiments of noise with different cut-off frequenc
 1. [Time resolution](#time-resolution)
 2. [Narrowband noise mute detection method](#narrowband-noise-mute-detection-method)
 3. [Experimental purpose](#experimental-purpose)
-4. [Experimental environment](#experimental-environment)
+4. [Requirements](#requirements)
 5. [Reference](#reference)
 
 ## Time resolution
@@ -19,7 +19,7 @@ Add silent segments to band-limited noise to measure the minimum length of silen
 ## Experimental purpose
 The time resolution of different conditions (different bandwidths and frequency ranges of the noise) is measured by the method of narrowband noise mute detection
 
-## Experimental environment
+## Requirements
 * Anaconda3 (Python 3.5): https://www.anaconda.com/
 * Sounddevice: https://pypi.python.org/pypi/sounddevice
 * or Pyaudio: https://pypi.python.org/pypi/PyAudio
