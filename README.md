@@ -3,6 +3,13 @@ Time resolution measurement experiments of noise with different cut-off frequenc
 
 ![](/UI.png)
 
+## Table of Contents
+1. [Time resolution](#Time resolution)
+2. [Narrowband noise mute detection method](#Narrowband noise mute detection method)
+3. [Experimental purpose](#Experimental purpose)
+4. [Experimental environment](#Experimental environment)
+5. [Reference](#Reference)
+
 ## Time resolution
 It characterizes the auditory system's ability to detect time-varying characteristics of stimulus signals.
 
@@ -12,10 +19,10 @@ Add silent segments to band-limited noise to measure the minimum length of silen
 ## Experimental purpose
 The time resolution of different conditions (different bandwidths and frequency ranges of the noise) is measured by the method of narrowband noise mute detection
 
-### Reference
-"The detection of temporal gaps as a function of frequency region and absolute noise bandwidth" (Eddins et al., 1992)
-
-### Experimental environment
+## Experimental environment
 * Anaconda3 (Python 3.5): https://www.anaconda.com/
 * Sounddevice: https://pypi.python.org/pypi/sounddevice
 * or Pyaudio: https://pypi.python.org/pypi/PyAudio
+
+## Reference
+"The detection of temporal gaps as a function of frequency region and absolute noise bandwidth" (Eddins et al., 1992)
