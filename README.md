@@ -1,5 +1,5 @@
 # Temporal Gap Detection
-Time resolution measurement experiment of noise with different cut-off frequency and bandwidth.
+Time resolution measurement experiments of noise with different cut-off frequency and bandwidth.
 
 ![](/UI.png)
 
