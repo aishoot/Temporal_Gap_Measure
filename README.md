@@ -4,10 +4,10 @@ Time resolution measurement experiments of noise with different cut-off frequenc
 ![](/UI.png)
 
 ## Table of Contents
-1. [Time resolution](#Time resolution)
-2. [Narrowband noise mute detection method](#Narrowband noise mute detection method)
-3. [Experimental purpose](#Experimental purpose)
-4. [Experimental environment](#Experimental environment)
+1. [Time resolution](#Time)
+2. [Narrowband noise mute detection method](#Narrowband)
+3. [Experimental purpose](#Experimental)
+4. [Experimental environment](#Experimental)
 5. [Reference](#Reference)
 
 ## Time resolution
